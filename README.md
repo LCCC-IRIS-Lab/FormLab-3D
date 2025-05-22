@@ -38,7 +38,6 @@ To everyone who played a role—your hard work, passion, and support have not go
 ### Contributors
 
 ## License
-[![License](https://img.shields.io/github/license/LCCC-IRIS-Lab/FormLab-3D?style=for-the-badge)](./LICENSE)\
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Changelog
