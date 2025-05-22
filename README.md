@@ -36,6 +36,9 @@ To everyone who played a role—your hard work, passion, and support have not go
 
 <!-- TODO: Add Contributors --->
 ### Contributors
+<a href = "https://github.com/LCCC-IRIS-Lab/FormLab-3D/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=LCCC-IRIS-Lab/FormLab-3D"/>
+ </a>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
