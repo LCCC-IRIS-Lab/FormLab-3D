@@ -23,13 +23,16 @@ This project provides an immersive 3D form-making environment for architectural 
 ## 🏆 Credits
 To everyone who played a role—your hard work, passion, and support have not gone unnoticed. A special thanks to all who were involved in the building this project.
 ### Product Owners
--Sam Moshaver
+- Sam Moshaver
 
 ### Team Members
 - Livan Miranda
 - Emily Boyle
 - Allan Martinez
 - Luis Isaac
+
+<!--- TODO: Find out if there is a mentor --->
+### Mentor
 
 <!-- TODO: Add Contributors --->
 ### Contributors
