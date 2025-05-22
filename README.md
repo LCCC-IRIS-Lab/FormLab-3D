@@ -3,18 +3,6 @@
 ## Project Overview
 This project provides an immersive 3D form-making environment for architectural students using zSpace technology and Unity. It allows users to interact with 3D objects and create compositions that help visualize architectural concepts without needing physical materials.
 
-## Team Members
-- Livan Miranda
-- Emily Boyle
-- Allan Martinez
-- Luis Isaac
-
-## Product Owners
-- Sam Moshaver
-
-## Mentors
-- [Mentor name]
-
 ## Getting Started
 
 ### Installation Instructions
@@ -31,6 +19,19 @@ This project provides an immersive 3D form-making environment for architectural 
 1. Open Unity and load the project.
 2. Ensure that zSpace hardware is connected.
 3. Run the application to start creating 3D architectural compositions.
+
+## Credits
+### Product Owners
+-Sam Moshaver
+
+### Team Members
+- Livan Miranda
+- Emily Boyle
+- Allan Martinez
+- Luis Isaac
+
+<!-- TODO: Add Contributors --->
+### Contributors
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
