@@ -38,7 +38,6 @@ To everyone who played a role—your hard work, passion, and support have not go
 ### Contributors
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
+[![License](https://img.shields.io/github/license/FormLab-3D/markdown-badges?style=for-the-badge)](./LICENSE)
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
