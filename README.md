@@ -38,6 +38,6 @@ To everyone who played a role—your hard work, passion, and support have not go
 ### Contributors
 
 ## License
-[!License](https://img.shields.io/github/license/FormLab-3D/markdown-badges?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/github/license/LCCC-IRIS-Lab/FormLab-3D?style=for-the-badge)](./LICENSE)
 ## Changelog
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
