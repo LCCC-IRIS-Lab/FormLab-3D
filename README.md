@@ -21,7 +21,7 @@ This project provides an immersive 3D form-making environment for architectural 
 3. Run the application to start creating 3D architectural compositions.
 
 ## 🗒️ Credits
-To everyone who played a role—your hard work, passion, and support have not gone unnoticed. A special thanks to all who were involved in the building this project.
+To everyone who played a role—your hard work, passion, and support have not gone unnoticed. A special thanks to all who were involved in the building of this project.
 ### Product Owners
 - Sam Moshaver
 
