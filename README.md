@@ -6,7 +6,7 @@ This project provides an immersive 3D form-making environment for architectural 
 ## Getting Started
 
 ### Installation Instructions
-1. Download and install Unity 2020.3 or later.
+1. Download and install Unity 2020.3.32f1 or later.
 2. Install the zSpace SDK from [zSpace Developer Portal](https://developer.zspace.com/).
 3. Clone the repository:  
     ```
