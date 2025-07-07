@@ -24,6 +24,7 @@ This project provides an immersive 3D form-making environment for architectural 
 
 <p align="center">
     <img src="README_images/formlab_01.PNG" alt="formlab_01" >
+    <img src="README_images/formlab_02.PNG" alt="formlab_02" >
 </p>
 
 ## 🗒️ Credits
