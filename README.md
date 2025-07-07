@@ -47,12 +47,14 @@ To everyone who played a role—your hard work, passion, and support have not go
 ## Resources 
 
 **🧊 zSpace**
+
     - [zSpace Website](https://zspace.com/)
     - [zSpace Documentation](https://developer.zspace.com/docs/)
     - [zSpace Unity Programming](https://zspace.com/edu/unityprogramming)
     - [zCore Unity Package](https://developer.zspace.com/downloads)
 
 **⚙️ Unity**
+
     - [Unity Website](https://unity.com/)
     - [Unity Documentation](https://docs.unity.com/)
     - [Unity Editor](https://unity.com/download)
