@@ -12,7 +12,7 @@ This project provides an immersive 3D form-making environment for architectural 
     ```
     git clone https://github.com/LCCC-IRIS-Lab/FormLab-3D.git
     ```
-4. Import the zSpace SDK package into your Unity project.
+4. Import the zSpace SDK package into your Unity project. `` Assets>>Import Package>>Custom Package...  ``
 5. Follow the zSpace SDK documentation to configure the project settings.
 
 ### Running the Application
