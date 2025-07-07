@@ -10,7 +10,7 @@ This project provides an immersive 3D form-making environment for architectural 
 2. Install the zSpace SDK from [zSpace Developer Portal](https://developer.zspace.com/).
 3. Clone the repository:  
     ```
-    git clone https://github.com/your-username/3D-Form-Making-Environment.git
+    git clone https://github.com/LCCC-IRIS-Lab/FormLab-3D.git
     ```
 4. Import the zSpace SDK package into your Unity project.
 5. Follow the zSpace SDK documentation to configure the project settings.
