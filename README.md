@@ -22,6 +22,10 @@ This project provides an immersive 3D form-making environment for architectural 
 
 ## Screenshot Showcase
 
+<p align="center">
+<img src="FormLab-3D/README_images/formlab_01.PNG" >
+</p>
+
 ## 🗒️ Credits
 To everyone who played a role—your hard work, passion, and support have not gone unnoticed. A special thanks to all who were involved in the building of this project.
 ### Product Owners
